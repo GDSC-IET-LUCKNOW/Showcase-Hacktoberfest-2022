@@ -1,1 +1,1 @@
-# PROJECTS-HUB-Hactoberfest-2022
+# PROJECTS-HUB-Hacktoberfest-2022
