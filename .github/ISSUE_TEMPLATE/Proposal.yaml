@@ -1,0 +1,29 @@
+name: New Project 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have you read the [Contributing Guidelines](#) ?
+
+  - type: textarea #description
+    attributes:
+      label: Name and brief Introduction about you.
+      
+    validations:
+      required: true
+
+  - type: textarea #Additional Context
+    attributes:
+      label: Project's Name and Domain.
+      
+  - type: textarea #Additional Context
+    attributes:
+      label: Brief Description about the project.
+      
+  - type: textarea #Additional Context
+    attributes:
+      label: Motivation behind the project.
+      
+  - - type: textarea #Additional Context
+    attributes:
+      label: Learnings from the project.
