@@ -24,6 +24,6 @@ body:
     attributes:
       label: Motivation behind the project.
       
-  - - type: textarea #Additional Context
+  - type: textarea #Additional Context
     attributes:
       label: Learnings from the project.
