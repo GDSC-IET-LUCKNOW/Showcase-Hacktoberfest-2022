@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "TUSHAR SHARMA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
+      "twitter": "https://twitter.com/",
+      "github":"https://github.com/",
+      "linkedin":"http://www.linkedin.com/",
+      "quote":"ALL IS WELL"
+    },
+    {
+      "name": "TUSHAR SHARMA",
+      "batch": 2024,
+      "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
+      "twitter": "https://twitter.com/",
+      "github": "https://github.com/",
+      "linkedin": "http://www.linkedin.com/",
+      "quote": "ALL IS WELL"
+    }
+  ]
+}
