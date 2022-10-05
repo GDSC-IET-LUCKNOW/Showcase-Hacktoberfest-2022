@@ -1,8 +1,8 @@
 
-# HACKTOBERFEST-2021-WEB-DEV
+# HACKTOBERFEST-2022-GDSC-IET-LUCKNOW
 
 <p align="center">
-    <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" height="220px"  />
+    <img src="https:https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022/blob/main/assets/logo.png" height="220px"  />
 </p>
 <hr>
 
