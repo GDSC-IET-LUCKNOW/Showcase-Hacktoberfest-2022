@@ -2,7 +2,7 @@
 # HACKTOBERFEST-2022-GDSC-IET-LUCKNOW
 
 <p align="center">
-    <img src="https:https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022/blob/main/assets/logo.png" height="220px"  />
+    <img src="https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022/blob/main/assets/logo.png?raw=true" height="220px"  />
 </p>
 <hr>
 
