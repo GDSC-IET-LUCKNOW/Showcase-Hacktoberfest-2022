@@ -81,8 +81,9 @@ The steps to follow to contribute to any projects:
     ```
     git checkout -b <feature-github username>
     ```
+7.  ### Add your awesome Personel Project in [Projects](https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022/tree/main/Projects) dicrectory according to the techstack that you have used.
 
-7.  ### Fill this block with necessary info of yourself.
+8.  ### Fill this block with necessary info of yourself.
     ```
     "name": {YOUR_NAME},
     "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
@@ -92,28 +93,28 @@ The steps to follow to contribute to any projects:
     "linkedin": {YOUR_LINKEDIN_PROFILE_LINK},
     "quote": {QUOTE_WHICH_DEFINES_YOU}
     ```
-8.  ### To get your PICTURE_CDN_URL head over to https://imgbb.com/ and upload one of your nice looking image and get's   it's url
+9.  ### To get your PICTURE_CDN_URL head over to https://imgbb.com/ and upload one of your nice looking image and get's   it's url
 
-9.  ### Add the above filled block to the data array in data.json file
+10.  ### Add the above filled block to the data array in data.json file
 
-10.  ### Track your changes
+11.  ### Track your changes
     ```
     git add data.json
     ```
-11.  ### Check for your changes.
+12.  ### Check for your changes.
     ```
     git status
     ```
-12.  ### Commit all the changes
+13.  ### Commit all the changes
     Write commit message as "Small Message"
     ```
     git commit -m "Add {YOUR_GITHUB_USERNAME} information"
     ```
-13. ### Push the changes for review
+14. ### Push the changes for review
     ```
     git push origin <branch-name>
     ```
-14. ### Create a PR on Github.
+15. ### Create a PR on Github.
         Just hit the create a pull request button, you must write a PR message to clarify why and what are you contributing
     <hr>
 
