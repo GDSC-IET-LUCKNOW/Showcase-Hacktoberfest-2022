@@ -124,7 +124,7 @@ Your name should appear shortly in Contributor list down after the pull request 
 
 ---
 
-## Our valuable Contributor :
+## Our valuable Contributors :
 
 <a href="https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022">
   <img src="https://contributors-img.web.app/image?repo=GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022" />
