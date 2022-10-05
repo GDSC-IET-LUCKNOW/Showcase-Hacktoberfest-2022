@@ -86,7 +86,7 @@ The steps to follow to contribute to any projects:
     "name": {YOUR_NAME},
     "batch": {YOUR_BATCH_COMMENCEMENT_YEAR},
     "picture_url": {PICTURE_CDN_URL},
-    "twitter": {TWITTER_HANDLE_LINK},
+    "personel_project": {YOUR_PERSONEL_PROECT's_LINK},
     "github": {YOUR_GITHUB_PROFILE_LINK},
     "linkedin": {YOUR_LINKEDIN_PROFILE_LINK},
     "quote": {QUOTE_WHICH_DEFINES_YOU}
