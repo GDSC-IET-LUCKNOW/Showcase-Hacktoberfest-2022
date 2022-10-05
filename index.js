@@ -29,18 +29,18 @@ LinkedinIcon.classList.add("fa");
 LinkedinIcon.classList.add("fa-linkedin");
 Linkedin.appendChild(LinkedinIcon);
 
-let Twitter = document.createElement("a");
-Twitter.classList.add("social-icon");
-Twitter.dataset.tooltip = "Twitter";
+let Project = document.createElement("a");
+Project.classList.add("social-icon");
+Project.dataset.tooltip = "Project";
 let TwitterIcon = document.createElement("i");
 TwitterIcon.classList.add("fa");
-TwitterIcon.classList.add("fa-twitter");
-Twitter.appendChild(TwitterIcon);
+TwitterIcon.classList.add("fa-code");
+Project.appendChild(TwitterIcon);
 
-SocialDiv.appendChild(Twitter);
+SocialDiv.appendChild(Project);
 SocialDiv.appendChild(Github);
 SocialDiv.appendChild(Linkedin);
-// Twitter.classList.add("btn");
+// Project.classList.add("btn");
 card.appendChild(imageDiv);
 content.appendChild(title);
 content.appendChild(paragraph);
@@ -50,17 +50,16 @@ content.appendChild(SocialDiv);
 card.appendChild(content);
 (async () => {
   console.log("hello");
-  const dataForCards = await (await fetch('https://quintessences.github.io/showcase/data.json')).json();
+  const dataForCards = await (await fetch('data.json')).json();
   let count = 0;
   Github.setAttribute("target", "_blank");
   Linkedin.setAttribute("target", "_blank");
-  Twitter.setAttribute("target", "_blank");
+  Project.setAttribute("target", "_blank");
   for (user of dataForCards.data) {
     imageDiv.style.backgroundImage = `url(${user.picture_url})`;
     Github.setAttribute("href", user.github);
     Linkedin.setAttribute("href", user.linkedin);
-    Linkedin.setAttribute("href", user.linkedin);
-    Twitter.setAttribute("href", user.twitter);
+    Project.setAttribute("href", user.twitter);
     console.log(user);
     console.log(count);
     count += 1;
