@@ -7,7 +7,7 @@
 <hr>
 
 ## Beginner-Hacktoberfest
-Need Your first pr for hacktoberfest 2k21 ? come on in 
+Need Your first pr for hacktoberfest 2k22 ? come on in 
 
 ## About
 
@@ -20,7 +20,7 @@ Participate in Hacktoberfest by contributing to any Open Source project on GitHu
 </div>
 <hr>
 
-# ❓ What's Hacktoberfest 2021?
+# ❓ What's Hacktoberfest 2022?
 
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by [Digital Ocean](https://www.digitalocean.com/) and [DEV](https://www.dev.to/) this year in 2021.
 
@@ -125,6 +125,6 @@ Your name should appear shortly in Contributor list down after the pull request 
 
 ## Our valuable Contributor :
 
-<a href="https://github.com/quintessences/showcase/graphs/contributors">
+<a href="https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022">
   <img src="https://contributors-img.web.app/image?repo=quintessences/showcase" />
 </a>
