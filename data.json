@@ -62,6 +62,15 @@
             "github": "https://github.com/vermaanurag1532",
             "linkedin": "https://www.linkedin.com/in/anurag-verma-471450224",
             "quote": "Be_a_verma"
-        }
+        },
+        {
+            "name": "Ankit Kumar Duvedi",
+            "batch": 2025,
+            "picture_url": "https://ibb.co/c6X670s",
+            "Project": "https://ankitduvedi.github.io/cardGame/",
+            "github": "https://github.com/Ankitduvedi",
+            "linkedin": "https://www.linkedin.com/in/ankit-kumar-duvedi-2a67a0238",
+            "quote": "Engineering is closest thing to magic that exist in the world."
+          }
     ]
 }
