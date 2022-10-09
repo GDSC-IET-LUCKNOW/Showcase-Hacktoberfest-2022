@@ -59,7 +59,7 @@ card.appendChild(content);
     imageDiv.style.backgroundImage = `url(${user.picture_url})`;
     Github.setAttribute("href", user.github);
     Linkedin.setAttribute("href", user.linkedin);
-    Project.setAttribute("href", user.twitter);
+    Project.setAttribute("href", user.Project);
     console.log(user);
     console.log(count);
     count += 1;

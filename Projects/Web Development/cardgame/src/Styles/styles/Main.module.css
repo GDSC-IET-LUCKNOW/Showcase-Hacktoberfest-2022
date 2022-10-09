@@ -1,0 +1,21 @@
+.main {
+  position: relative;
+  margin: 3rem auto 0 auto;
+  width: 49rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
+  flex-wrap: wrap;
+}
+
+@media (max-width: 37.5em) {
+  .main {
+    width: 80rem;
+  }
+}
+@media (max-width: 23.125em) {
+  .main {
+    width: 85%;
+  }
+}
