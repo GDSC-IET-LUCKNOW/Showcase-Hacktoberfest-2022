@@ -35,6 +35,15 @@
       "github": "https://github.com/FaizFk",
       "linkedin": "https://www.linkedin.com/in/faiz-khan-4793731ba/",
       "quote": "What if AI intentionally failing Turing Test."
+    },
+    {
+      "name":"SATENDRA GANGWAR",
+      "batch":2025,
+      "picture_url":"https://i.ibb.co/xDtCtgg/IMG-20210418-231450-749.jpg",
+      "Project":"https://github.com/satendragangwar/textchanger-react-js",
+      "github":"https://github.com/satendragangwar",
+      "linkedin":"https://www.linkedin.com/feed/",
+      "quote":"If there is no struggle, there is no progress"
     }
   ]
 }
