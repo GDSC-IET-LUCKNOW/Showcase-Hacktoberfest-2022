@@ -44,6 +44,16 @@
       "github": "https://github.com/ayushsaha1018",
       "linkedin": "https://www.linkedin.com/in/ayush-kumar-864b33229/",
       "quote": "Technology is best when it brings people together."
+
+    },
+    {
+    "name":"SATENDRA GANGWAR",
+      "batch":2025,
+      "picture_url":"https://i.ibb.co/xDtCtgg/IMG-20210418-231450-749.jpg",
+      "Project":"https://github.com/satendragangwar/textchanger-react-js",
+      "github":"https://github.com/satendragangwar",
+      "linkedin":"https://www.linkedin.com/feed/",
+      "quote":"If there is no struggle, there is no progress"
     }
   ]
 }
