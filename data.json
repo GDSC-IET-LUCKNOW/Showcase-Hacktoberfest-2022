@@ -26,6 +26,15 @@
       "github": "https://github.com/Gaurav-Verma07",
       "linkedin": "https://www.linkedin.com/in/gaurav-verma321/",
       "quote": "Misery teaches more than happiness."
+    },
+    {
+      "name": "FAIZ KHAN",
+      "batch": 2025,
+      "picture_url": "https://i.ibb.co/bX8m2np/Faiz-img.jpg",
+      "Project": "https://github.com/FaizFk/To-Do-List-Flutter-App",
+      "github": "https://github.com/FaizFk",
+      "linkedin": "https://www.linkedin.com/in/faiz-khan-4793731ba/",
+      "quote": "What if AI intentionally failing Turing Test."
     }
   ]
 }
