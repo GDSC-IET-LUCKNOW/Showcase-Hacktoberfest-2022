@@ -17,6 +17,15 @@
       "github": "https://github.com/",
       "linkedin": "http://www.linkedin.com/",
       "quote": "ALL IS WELL"
+    },
+    {
+      "name": "FAIZ KHAN",
+      "batch": 2025,
+      "picture_url": "https://i.ibb.co/bX8m2np/Faiz-img.jpg",
+      "Project": "https://github.com/FaizFk/Simple-Calculator-Flutter",
+      "github": "https://github.com/FaizFk",
+      "linkedin": "http://www.linkedin.com/in/faiz-khan-4793731ba/",
+      "quote": "WHAT IF AI IS INTENTIONALLY FAILING TURING TEST"
     }
   ]
 }
