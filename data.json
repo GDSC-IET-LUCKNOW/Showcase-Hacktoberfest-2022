@@ -54,6 +54,16 @@
       "github":"https://github.com/satendragangwar",
       "linkedin":"https://www.linkedin.com/feed/",
       "quote":"If there is no struggle, there is no progress"
-    }
+    },
+    {
+    "name":"JANHVI SINGH",
+    "batch":2024,
+    "picture_url":"girlwithlaptop.jpg",
+    "Project":"https://github.com/Janhvi52/w2i",
+    "github":"https://github.com/Janhvi52",
+    "linkedin":"https://www.linkedin.com/in/janhvi-singh-539989227/",
+    "quote":"Life is all about falling seven times and getting up eighth time"
+  }
+
   ]
 }
