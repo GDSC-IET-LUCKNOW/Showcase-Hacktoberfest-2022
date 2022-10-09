@@ -43,7 +43,6 @@
             "github": "https://github.com/ayushsaha1018",
             "linkedin": "https://www.linkedin.com/in/ayush-kumar-864b33229/",
             "quote": "Technology is best when it brings people together."
-
         },
         {
             "name": "SATENDRA GANGWAR",
@@ -71,6 +70,16 @@
             "github": "https://github.com/Ankitduvedi",
             "linkedin": "https://www.linkedin.com/in/ankit-kumar-duvedi-2a67a0238",
             "quote": "Engineering is closest thing to magic that exist in the world."
-          }
-    ]
+         },
+         {
+            "name":"JANHVI SINGH",
+             "batch":2024,
+             "picture_url":"girlwithlaptop.jpg",
+            "Project":"https://github.com/Janhvi52/w2i",
+             "github":"https://github.com/Janhvi52",
+             "linkedin":"https://www.linkedin.com/in/janhvi-singh-539989227/",
+             "quote":"Life is all about falling seven times and getting up eighth time"
+          }]
 }
+
+ 
