@@ -88,7 +88,17 @@
              "github":"https://github.com/Janhvi52",
              "linkedin":"https://www.linkedin.com/in/janhvi-singh-539989227/",
              "quote":"Life is all about falling seven times and getting up eighth time"
-          }]
+          },
+          {
+            "name": "Talha Masood",
+            "batch": 2022,
+            "picture_url": "https://ibb.co/kSjcync",
+            "personel_project": "https://github.com/talhamasood0000/",
+            "github": "https://github.com/talhamasood0000/",
+            "linkedin": "https://www.linkedin.com/in/talhamasood0000/",
+            "quote": "You can achieve anything by hardwork" 
+          }
+        ]
 }
 
  
