@@ -1,94 +1,103 @@
 {
-    "data": [{
-            "name": "",
-            "batch": 2024,
-            "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
-            "Project": "https://twitter.com/",
-            "github": "https://github.com/",
-            "linkedin": "http://www.linkedin.com/",
-            "quote": "ALL IS WELL"
-        },
-        {
-            "name": "TUSHAR SHARMA",
-            "batch": 2024,
-            "picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
-            "Project": "https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022",
-            "github": "https://github.com/",
-            "linkedin": "http://www.linkedin.com/",
-            "quote": "ALL IS WELL"
-        },
-        {
-            "name": "GAURAV VERMA",
-            "batch": 2025,
-            "picture_url": "https://i.ibb.co/XV5fBHp/IMG-20210417-123609.jpg",
-            "Project": "https://gaurav-verma07.github.io/Project2_Game/",
-            "github": "https://github.com/Gaurav-Verma07",
-            "linkedin": "https://www.linkedin.com/in/gaurav-verma321/",
-            "quote": "Misery teaches more than happiness."
-        },
-        {
-            "name": "FAIZ KHAN",
-            "batch": 2025,
-            "picture_url": "https://i.ibb.co/bX8m2np/Faiz-img.jpg",
-            "Project": "https://github.com/FaizFk/To-Do-List-Flutter-App",
-            "github": "https://github.com/FaizFk",
-            "linkedin": "https://www.linkedin.com/in/faiz-khan-4793731ba/",
-            "quote": "What if AI intentionally failing Turing Test."
-        },
-        {
-            "name": "AYUSH KUMAR",
-            "batch": 2025,
-            "picture_url": "https://i.ibb.co/frrzPGc/Ayush-img.jpg",
-            "Project": "https://github.com/ayushsaha1018/jobify",
-            "github": "https://github.com/ayushsaha1018",
-            "linkedin": "https://www.linkedin.com/in/ayush-kumar-864b33229/",
-            "quote": "Technology is best when it brings people together."
-        },
-        {
-            "name": "SATENDRA GANGWAR",
-            "batch": 2025,
-            "picture_url": "https://i.ibb.co/xDtCtgg/IMG-20210418-231450-749.jpg",
-            "Project": "https://github.com/satendragangwar/textchanger-react-js",
-            "github": "https://github.com/satendragangwar",
-            "linkedin": "https://www.linkedin.com/feed/",
-            "quote": "If there is no struggle, there is no progress"
-        },
-        {
-            "name": "Anurag verma",
-            "batch": 2025,
-            "picture_url": "https://ibb.co/4S0LLgM",
-            "Project": "https://vermaanurag1532.github.io/hotel_meal/",
-            "github": "https://github.com/vermaanurag1532",
-            "linkedin": "https://www.linkedin.com/in/anurag-verma-471450224",
-            "quote": "Be_a_verma"
-        },
-        {
-            "name": "Ankit Kumar Duvedi",
-            "batch": 2025,
-            "picture_url": "https://ibb.co/c6X670s",
-            "Project": "https://ankitduvedi.github.io/cardGame/",
-            "github": "https://github.com/Ankitduvedi",
-            "linkedin": "https://www.linkedin.com/in/ankit-kumar-duvedi-2a67a0238",
-            "quote": "Engineering is closest thing to magic that exist in the world."
-         },
-         {
-            "name": "DIVYANSHU SINGH",
-            "batch": "2025",
-            "picture_url": "PICTURE_CDN_URL",
-            "personel_project": {},
-            "github": "https://github.com/divyanshuThecoder123/Weather-project",
-            "linkedin": "https://www.linkedin.com/in/divyanshu-singh-954b73208/",
-            "quote": "Be humble in good times and stay strong in bad times"
-         },
-         {
-            "name":"JANHVI SINGH",
-             "batch":2024,
-             "picture_url":"girlwithlaptop.jpg",
-            "Project":"https://github.com/Janhvi52/w2i",
-             "github":"https://github.com/Janhvi52",
-             "linkedin":"https://www.linkedin.com/in/janhvi-singh-539989227/",
-             "quote":"Life is all about falling seven times and getting up eighth time"
-          }]
+	"data": [
+		{
+			"name": "",
+			"batch": 2024,
+			"picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
+			"Project": "https://twitter.com/",
+			"github": "https://github.com/",
+			"linkedin": "http://www.linkedin.com/",
+			"quote": "ALL IS WELL"
+		},
+		{
+			"name": "TUSHAR SHARMA",
+			"batch": 2024,
+			"picture_url": "https://i.ibb.co/kKFfcBP/20210325-175413.jpg",
+			"Project": "https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022",
+			"github": "https://github.com/",
+			"linkedin": "http://www.linkedin.com/",
+			"quote": "ALL IS WELL"
+		},
+		{
+			"name": "GAURAV VERMA",
+			"batch": 2025,
+			"picture_url": "https://i.ibb.co/XV5fBHp/IMG-20210417-123609.jpg",
+			"Project": "https://gaurav-verma07.github.io/Project2_Game/",
+			"github": "https://github.com/Gaurav-Verma07",
+			"linkedin": "https://www.linkedin.com/in/gaurav-verma321/",
+			"quote": "Misery teaches more than happiness."
+		},
+		{
+			"name": "FAIZ KHAN",
+			"batch": 2025,
+			"picture_url": "https://i.ibb.co/bX8m2np/Faiz-img.jpg",
+			"Project": "https://github.com/FaizFk/To-Do-List-Flutter-App",
+			"github": "https://github.com/FaizFk",
+			"linkedin": "https://www.linkedin.com/in/faiz-khan-4793731ba/",
+			"quote": "What if AI intentionally failing Turing Test."
+		},
+		{
+			"name": "Ayush Kanduri",
+			"batch": 2019,
+			"picture_url": "https://avatars.githubusercontent.com/u/76626529?v=4",
+			"Project": "https://ayush-kanduri.github.io/Mini-Ipod-App-ReactJS",
+			"github": "https://github.com/Ayush-Kanduri",
+			"linkedin": "https://www.linkedin.com/in/ayushkanduri/",
+			"quote": "Believe in yourself."
+		},
+		{
+			"name": "AYUSH KUMAR",
+			"batch": 2025,
+			"picture_url": "https://i.ibb.co/frrzPGc/Ayush-img.jpg",
+			"Project": "https://github.com/ayushsaha1018/jobify",
+			"github": "https://github.com/ayushsaha1018",
+			"linkedin": "https://www.linkedin.com/in/ayush-kumar-864b33229/",
+			"quote": "Technology is best when it brings people together."
+		},
+		{
+			"name": "SATENDRA GANGWAR",
+			"batch": 2025,
+			"picture_url": "https://i.ibb.co/xDtCtgg/IMG-20210418-231450-749.jpg",
+			"Project": "https://github.com/satendragangwar/textchanger-react-js",
+			"github": "https://github.com/satendragangwar",
+			"linkedin": "https://www.linkedin.com/feed/",
+			"quote": "If there is no struggle, there is no progress"
+		},
+		{
+			"name": "Anurag verma",
+			"batch": 2025,
+			"picture_url": "https://ibb.co/4S0LLgM",
+			"Project": "https://vermaanurag1532.github.io/hotel_meal/",
+			"github": "https://github.com/vermaanurag1532",
+			"linkedin": "https://www.linkedin.com/in/anurag-verma-471450224",
+			"quote": "Be_a_verma"
+		},
+		{
+			"name": "Ankit Kumar Duvedi",
+			"batch": 2025,
+			"picture_url": "https://ibb.co/c6X670s",
+			"Project": "https://ankitduvedi.github.io/cardGame/",
+			"github": "https://github.com/Ankitduvedi",
+			"linkedin": "https://www.linkedin.com/in/ankit-kumar-duvedi-2a67a0238",
+			"quote": "Engineering is closest thing to magic that exist in the world."
+		},
+		{
+			"name": "DIVYANSHU SINGH",
+			"batch": "2025",
+			"picture_url": "PICTURE_CDN_URL",
+			"personel_project": {},
+			"github": "https://github.com/divyanshuThecoder123/Weather-project",
+			"linkedin": "https://www.linkedin.com/in/divyanshu-singh-954b73208/",
+			"quote": "Be humble in good times and stay strong in bad times"
+		},
+		{
+			"name": "JANHVI SINGH",
+			"batch": 2024,
+			"picture_url": "girlwithlaptop.jpg",
+			"Project": "https://github.com/Janhvi52/w2i",
+			"github": "https://github.com/Janhvi52",
+			"linkedin": "https://www.linkedin.com/in/janhvi-singh-539989227/",
+			"quote": "Life is all about falling seven times and getting up eighth time"
+		}
+	]
 }
-
- 
