@@ -88,7 +88,17 @@
              "github":"https://github.com/Janhvi52",
              "linkedin":"https://www.linkedin.com/in/janhvi-singh-539989227/",
              "quote":"Life is all about falling seven times and getting up eighth time"
-          }]
+          },
+          {
+            "name":"Prabadhya Upadhyay",
+            "batch":"2022",
+            "picture_url":"https://ibb.co/5L4ScXW",
+            "Project":"https://github.com/Rickey07/youtube-thumbnail-generator",
+            "github":"https://github.com/Rickey07",
+            "linkedin":"https://www.linkedin.com/in/prabadhya-upadhyay-4272881a1/",
+            "quote":"Consistency is the key to success"
+          }
+        ]
 }
 
  

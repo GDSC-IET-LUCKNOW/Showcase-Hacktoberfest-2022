@@ -1,0 +1,3 @@
+[submodule "youtube-thumbnail-generator"]
+	path = youtube-thumbnail-generator
+	url = https://github.com/Rickey07/youtube-thumbnail-generator
