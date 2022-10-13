@@ -1,0 +1,31 @@
+body {
+     background: rgb(172,175,38);
+     background: linear-gradient(90deg, rgba(172,175,38,1) 0%, rgba(154,244,135,1) 49%, rgba(231,245,179,1) 100%);
+}
+
+.grid {
+     margin: auto;
+     display: flex;
+     flex-wrap: wrap;
+     height: 300px;
+     width: 400px;
+     cursor: pointer;
+}
+
+footer {
+     position: fixed;
+     padding: 10px;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     color: blue;
+     text-align: center;
+     font-size: 15px;
+     font-family: 'Noto Sans JP', sans-serif;
+}
+
+footer a {
+     text-decoration: none;
+     color: inherit;
+     font-family: inherit;
+}
