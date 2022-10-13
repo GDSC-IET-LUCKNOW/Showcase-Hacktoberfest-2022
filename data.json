@@ -98,6 +98,24 @@
 			"github": "https://github.com/Janhvi52",
 			"linkedin": "https://www.linkedin.com/in/janhvi-singh-539989227/",
 			"quote": "Life is all about falling seven times and getting up eighth time"
+		},
+		{
+			"name": "Fabian Cristancho",
+			"batch": 2022,
+			"picture_url": "https://ibb.co/pf21sfB",
+			"personel_project": "https://github.com/FabianCristancho/Showcase-Hacktoberfest-2022",
+			"github": "https://github.com/FabianCristancho/",
+			"linkedin": "https://www.linkedin.com/in/fabian-alejandro-cristancho-rinc%C3%B3n-ba42b4223/",
+			"quote": "Talk is cheap. Show me the code."
+		},
+		{
+			"name": "Fabian Cristancho",
+			"batch": 2022,
+			"picture_url": "https://ibb.co/9GdMDZF",
+			"personel_project": "https://github.com/FabianCristancho/Showcase-Hacktoberfest-2022",
+			"github": "https://github.com/FabianCristancho/",
+			"linkedin": "https://www.linkedin.com/in/fabian-alejandro-cristancho-rinc%C3%B3n-ba42b4223/",
+			"quote": "Talk is cheap. Show me the code."
 		}
 	]
 }
