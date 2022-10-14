@@ -116,15 +116,24 @@
 			"github": "https://github.com/FabianCristancho/",
 			"linkedin": "https://www.linkedin.com/in/fabian-alejandro-cristancho-rinc%C3%B3n-ba42b4223/",
 			"quote": "Talk is cheap. Show me the code."
-		}
+		},
 		{
 			"name": "Naman Khera",
-			"batch": 2022
+			"batch": 2022,
 			"picture_url": "https://ibb.co/nzbfsDp",
 			"personel_project": "https://nmn03.github.io/first_web_design/",
 			"github": "https://github.com/NMN03",
 			"linkedin": "https://www.linkedin.com/in/naman-khera-282320235/",
 			"quote": "The best is yet to be"
+		},
+		{
+			"name": "Muhammad Ashar Khan",
+			"batch": 2022,
+			"picture_url": "https://ibb.co/5sDnkYj",
+			"personel_project": "https://nmn03.github.io/first_web_design/",
+			"github": "https://github.com/M-ASHaR",
+			"linkedin": "https://www.linkedin.com/in/muhammad-ashar-khan-75249819b/",
+			"quote": "A complete Database Management System that uses Arrays"
 		}
 		
 	]
