@@ -10,7 +10,7 @@ Need Your first pr for hacktoberfest 2k21 ? come on in
 
 ## About
 
-<div align="center">
+<div>
 
 Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first-time contributors.
 <br>
