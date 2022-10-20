@@ -143,6 +143,16 @@
 			"github": "https://github.com/Lalit3716",
 			"linkedin": "hhttps://www.linkedin.com/in/lalit-kumar-singh-b48523228/",
 			"quote": "Code is like humor. When you have to explain it, it's bad."
+		},
+		
+		{
+			"name": "Priyanshi Raj",
+			"batch": 2024,
+			"picture_url": "https://images.app.goo.gl/qATd3vnQHvUhJaV98",
+			"personel_project": "https://github.com/Priyanshi-Raj/Job-recommendation-system-engage",
+			"github": "https://github.com/Priyanshi-Raj",
+			"linkedin": "https://www.linkedin.com/in/priyanshi-raj-29092002/",
+			"quote": "Programming is the art of algorithm design and the craft of debugging errant code."
 		}
 	]
 }
