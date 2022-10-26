@@ -153,6 +153,15 @@
 			"github": "https://github.com/Priyanshi-Raj",
 			"linkedin": "https://www.linkedin.com/in/priyanshi-raj-29092002/",
 			"quote": "Programming is the art of algorithm design and the craft of debugging errant code."
+		},
+		{
+			"name": "ARYAN",
+			"batch": 2024,
+			"picture_url": "https://avatars.githubusercontent.com/u/76639295?v=4",
+			"Project": "https://github.com/GDSC-IET-LUCKNOW/Showcase-Hacktoberfest-2022",
+			"github": "https://github.com/Simple-Saviour",
+			"linkedin": "https://www.linkedin.com/in/aryan-a03491205/",
+			"quote": "EAT CODE SLEEP REPEAT"
 		}
 	]
 }
