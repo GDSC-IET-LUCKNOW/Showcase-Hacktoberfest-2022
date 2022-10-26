@@ -45,6 +45,9 @@ So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop
 <br>
 
 # 👍 This is Awesome! How Can I Contribute?
+## Note-
+
+This is general Repo which is meant for learning the basics about open source contributions,If you want to contribute to techstack specific repo then please refer below links for begginer freindly repos for HacktoberFest 2022: [Link](https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d)
 
 Don't know how to start of open source and Contribute to our Open Source Project ? Welcome to the world of hacking!
 
