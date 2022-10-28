@@ -153,6 +153,17 @@
 			"github": "https://github.com/Priyanshi-Raj",
 			"linkedin": "https://www.linkedin.com/in/priyanshi-raj-29092002/",
 			"quote": "Programming is the art of algorithm design and the craft of debugging errant code."
+		},
+
+		{
+			
+			"name": "Ayush Sharma",
+			"batch": 2025,
+			"picture_url": "https://ibb.co/K7jtdCy",
+			"Project": "https://explorer003.github.io/Restrowebsite/",
+			"github": "https://github.com/Explorer003",
+			"linkedin": "https://www.linkedin.com/in/ayush-sharma-55a17a225",
+			"quote": "Be Happy"
 		}
 	]
 }
