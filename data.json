@@ -27,6 +27,7 @@
 			"linkedin": "https://www.linkedin.com/in/gaurav-verma321/",
 			"quote": "Misery teaches more than happiness."
 		},
+
 		{
 			"name": "FAIZ KHAN",
 			"batch": 2025,
@@ -164,6 +165,14 @@
 			"github": "https://github.com/Explorer003",
 			"linkedin": "https://www.linkedin.com/in/ayush-sharma-55a17a225",
 			"quote": "Be Happy"
+		},
+		{
+			"name": "RIYA MALIK",
+			"batch": 2025,
+			"Project": "https://riya1922.github.io/Portfolio/",
+			"github": "https://github.com/Riya1922",
+			"linkedin": "https://www.linkedin.com/in/riya-malik-1b88a2232/",
+			"quote": "Destination"
 		}
 	]
 }
